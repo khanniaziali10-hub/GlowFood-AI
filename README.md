@@ -1,5 +1,6 @@
 # 🌿 GlowFood AI
-![Uploading Screenshot 2026-06-08 093614.png…]()
+<img width="1793" height="884" alt="Screenshot 2026-06-08 093614" src="https://github.com/user-attachments/assets/fcd55a4a-7414-4fa6-b41b-ffa32b2e4c30" />
+
 
 
 

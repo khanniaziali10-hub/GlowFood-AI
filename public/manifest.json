@@ -1,0 +1,46 @@
+{
+  "name": "GlowFood AI",
+  "short_name": "GlowFood",
+  "description": "AI-powered pantry manager & zero-waste recipe assistant powered by Gemini",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fdf4f4",
+  "theme_color": "#F4E0E0",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "categories": ["food", "lifestyle", "utilities"],
+  "shortcuts": [
+    {
+      "name": "My Pantry",
+      "short_name": "Pantry",
+      "description": "Open the pantry manager",
+      "url": "/pantry",
+      "icons": [{ "src": "/favicon.ico", "sizes": "48x48" }]
+    },
+    {
+      "name": "AI Chef",
+      "short_name": "AI Chef",
+      "description": "Chat with the Gemini AI Chef",
+      "url": "/chat",
+      "icons": [{ "src": "/favicon.ico", "sizes": "48x48" }]
+    }
+  ]
+}

@@ -1,11 +1,10 @@
 # 🌿 GlowFood AI
 <img width="1793" height="884" alt="Screenshot 2026-06-08 093614" src="https://github.com/user-attachments/assets/fcd55a4a-7414-4fa6-b41b-ffa32b2e4c30" />
 
-<img width="960" height="505" alt="Screenshot 2026-05-17 174513" src="https://github.com/user-attachments/assets/78c75722-9048-46bb-a82f-309676558983" />
-<img width="960" height="505" alt="Screenshot 2026-05-17 174537" src="https://github.com/user-attachments/assets/3d0cd846-b17e-4b86-8c49-7cac5f817f84" />
-<img width="960" height="505" alt="Screenshot 2026-05-17 174529" src="https://github.com/user-attachments/assets/6abea163-2303-4344-8d08-0e58faabd1f4" />
-<img width="960" height="505" alt="Screenshot 2026-05-17 174529 - Copy - Copy" src="https://github.com/user-attachments/assets/5e7d2d4c-678b-4c44-878b-915be1a041ba" />
-<img width="960" height="505" alt="Screenshot 2026-05-17 174518 - Copy" src="https://github.com/user-attachments/assets/c6f2fdc9-b812-4062-9015-658e372e85f4" />
+<img width="1871" height="908" alt="Screenshot 2026-06-08 094947" src="https://github.com/user-attachments/assets/cbe94a36-b451-4fc2-aa3a-185c86a91570" />
+<img width="1819" height="905" alt="Screenshot 2026-06-08 094957" src="https://github.com/user-attachments/assets/48439522-9e88-4248-84f0-689c5498667a" />
+<img width="1860" height="909" alt="Screenshot 2026-06-08 095018" src="https://github.com/user-attachments/assets/5921a472-dfba-4932-a2c5-8e31c7c1a186" />
+
 
 
 

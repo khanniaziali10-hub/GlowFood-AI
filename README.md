@@ -1,6 +1,7 @@
 # 🌿 GlowFood AI
+<img width="941" height="453" alt="Screenshot 2026-05-17 172402" src="https://github.com/user-attachments/assets/25643157-239a-46b3-a999-b5a21f399a48" />
 
-> **Anti-Gravity Food Intelligence for Sustainable Living**
+
 
 An AI-powered smart pantry manager that scans barcodes, tracks expiry dates, and suggests waste-reducing recipes using Google Gemini AI. Built with Next.js 15, React Three Fiber, and Tailwind CSS.
 
@@ -271,7 +272,7 @@ For questions or issues, please open an issue on GitHub or contact the author.
 ---
 
 **⭐ If you find this project helpful, please give it a star!**
-<img width="941" height="453" alt="Screenshot 2026-05-17 172402" src="https://github.com/user-attachments/assets/25643157-239a-46b3-a999-b5a21f399a48" />
+
 ![Uploading Screenshot 2026-05-17 174529.png…]()
 ![Uploading Screenshot 2026-05-17 174529 - Copy - Copy.png…]()
 ![Uploading Screenshot 2026-05-17 174518 - Copy.png…]()

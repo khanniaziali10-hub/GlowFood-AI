@@ -1,6 +1,14 @@
 # 🌿 GlowFood AI
 <img width="1793" height="884" alt="Screenshot 2026-06-08 093614" src="https://github.com/user-attachments/assets/fcd55a4a-7414-4fa6-b41b-ffa32b2e4c30" />
 
+<img width="960" height="505" alt="Screenshot 2026-05-17 174513" src="https://github.com/user-attachments/assets/78c75722-9048-46bb-a82f-309676558983" />
+<img width="960" height="505" alt="Screenshot 2026-05-17 174537" src="https://github.com/user-attachments/assets/3d0cd846-b17e-4b86-8c49-7cac5f817f84" />
+<img width="960" height="505" alt="Screenshot 2026-05-17 174529" src="https://github.com/user-attachments/assets/6abea163-2303-4344-8d08-0e58faabd1f4" />
+<img width="960" height="505" alt="Screenshot 2026-05-17 174529 - Copy - Copy" src="https://github.com/user-attachments/assets/5e7d2d4c-678b-4c44-878b-915be1a041ba" />
+<img width="960" height="505" alt="Screenshot 2026-05-17 174518 - Copy" src="https://github.com/user-attachments/assets/c6f2fdc9-b812-4062-9015-658e372e85f4" />
+
+
+
 
 
 
@@ -274,9 +282,4 @@ For questions or issues, please open an issue on GitHub or contact the author.
 ---
 
 **⭐ If you find this project helpful, please give it a star!**
-
-![Uploading Screenshot 2026-05-17 174529.png…]()
-![Uploading Screenshot 2026-05-17 174529 - Copy - Copy.png…]()
-![Uploading Screenshot 2026-05-17 174518 - Copy.png…]()
-![Uploading Screenshot 2026-05-17 174513.png…]()
 
